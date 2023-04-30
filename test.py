@@ -16,9 +16,9 @@ class MyClass:
         pass
 
 def testFunction(b):
-    '''
-    docstring 연습용 함수
-    :param b: 매개변수
-    :return: 값을 그대로 반환함
-    '''
-    return b
+        '''
+        docstring 연습용 함수
+        :param b: 매개변수
+        :return: 값을 그대로 반환함
+        '''
+        return b
